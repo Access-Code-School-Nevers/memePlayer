@@ -2,7 +2,7 @@ HOW TO USE
 
 Play up to 10 sounds with shortcuts
 
-Run application
+To run application
     go to "dist/memePlayer"
     launch "memePlayer.exe"
 
